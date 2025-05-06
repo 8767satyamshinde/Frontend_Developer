@@ -1,5 +1,7 @@
-# Frontend_Developer
-practice for and project gain experinece in that .........
+# Frontend Developer Project
 
+This is a single-page CV created using semantic HTML only.
 
-# Github link - https://github.com/8767satyamshinde/Frontend_Developer
+## 🔗 Project Page URL
+
+[https://8767satyamshinde.github.io/Frontend_Developer](https://8767satyamshinde.github.io/Frontend_Developer)
