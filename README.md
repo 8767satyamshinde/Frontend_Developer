@@ -1,6 +1,9 @@
-## 🔗 Project Page
 
-[View Live Project]([https://your-deployed-project-url.com](https://8767satyamshinde.github.io/html_page/))
+
+## 🔗 Live Project
+
+[Click here to view the live CV](https://8767satyamshinde.github.io/html_page/)
+
 
 OR (if you're only using the GitHub repo)
 
