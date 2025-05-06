@@ -1,7 +1,7 @@
-# Frontend Developer Project
+## 🔗 Project Page
 
-This is a single-page CV created using semantic HTML only.
+[View Live Project](https://your-deployed-project-url.com)
 
-## 🔗 Project Page URL
-https://github.com/8767satyamshinde/Frontend_Developer/tree/main?tab=readme-ov-file
-[https://8767satyamshinde.github.io/Frontend_Developer](https://8767satyamshinde.github.io/Frontend_Developer)
+OR (if you're only using the GitHub repo)
+
+[GitHub Repository](https://github.com/8767satyamshinde/Frontend_Developer)
